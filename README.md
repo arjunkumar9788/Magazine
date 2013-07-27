@@ -1,0 +1,4 @@
+Magazine
+========
+
+about magazine
